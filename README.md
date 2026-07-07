@@ -1,3 +1,10 @@
-# Emotion Detection using Watson NLP
+# Final Project
 
-Repository for final project — Emotion Detection application built using IBM Watson NLP library. This application analyzes text and detects emotions such as anger, disgust, fear, joy, and sadness.
+This is the Final Project for emotion detection using IBM Watson NLP library.
+
+## Project Description
+This application detects emotions from text input using IBM Watson NLP library and returns the emotion scores along with the dominant emotion.
+
+## Installation
+```bash
+pip install -r requirements.txt
